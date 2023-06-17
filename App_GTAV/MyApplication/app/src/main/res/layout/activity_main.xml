@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/btnTelaGta"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gta_v"
+    android:gravity="center"
+    android:onClick="irParaTelaMapa"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_margin="15dp"
+        android:backgroundTint="#FF0000"
+        android:onClick="irParaTelaMapa"
+        android:text="Mapa" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_margin="15dp"
+        android:backgroundTint="#FF0000"
+        android:onClick="irParaTelaHistoria"
+        android:text="Historia" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_margin="15dp"
+        android:backgroundTint="#FF0000"
+        android:onClick="irParaTelaArmas"
+        android:text="Armas" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_margin="15dp"
+        android:backgroundTint="#FF0000"
+        android:onClick="irParaTelaVeiculos"
+        android:text="Veiculos" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_margin="15dp"
+        android:backgroundTint="#FF0000"
+        android:onClick="irParaTelaCodigos"
+        android:text="Codigos" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_margin="15dp"
+        android:backgroundTint="#FF0000"
+        android:onClick="irParaSiteTrailer"
+        android:text="Trailer" />
+</LinearLayout>
+
+
+
+
+

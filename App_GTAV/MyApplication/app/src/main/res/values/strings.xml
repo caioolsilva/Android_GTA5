@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="PrimeiroParagrafo">Michael é um ladrão de banco profissional aposentado, que depois de fazer um trato com o FIB (paródia do FBI), voltou para a vida do crime.</string>
+    <string name="SegundoParagrafo">Michael é um ex-assaltante de banco e criminoso conhecido, que fingiu sua morte para se aposentar e viver uma vida pacífica com sua família em Los Santos. No entanto, ele sofre com seu relacionamento doentio e logo é puxado de volta para sua vida criminosa, forçando-o a voltar aos velhos tempos. A história de Michael gira em torno de como seu estilo de vida aparentemente idílico e tranquilo é interrompido quando seus demônios do passado e erros moralmente comprometedores voltam para assombrá-lo. Ele é velho amigo de Trevor e no início da história, ele também se torna amigo de Franklin e se torna um mentor para ele. </string>
+    <string name="scroll"></string>
+    <string name="TerceiroParagrafo">Franklin, um jovem e sombrio agente de reintegração de posse que tem uma grande quantidade de experiência ao volante, mas nenhuma experiência real com o crime até que ele conhece Michael, enquanto ele estava fazendo suas reintegrações de posse.</string>
+    <string name="QuartoParagrafo">Franklin, um jovem e sombrio agente de reintegração de posse que tem uma grande quantidade de experiência ao volante, mas nenhuma experiência real com o crime até que ele conhece Michael, enquanto ele estava fazendo suas reintegrações de posse. Após isso Franklin e Michael começaram a sair juntos e se tornaram melhores amigos, uma relação quase de pai e filho. Franklin conhece Trevor e os 3 juntos vão cometendo roubos.</string>
+    <string name="QuintoParagrafo">Trevor é o canhão solto nesta história, e é também o melhor amigo de Michael a muito tempo, ele também é um psicopata cabeça quente.</string>
+    <string name="SextoParagrafo">Trevor é um criminoso conhecido e ex-ladrão de banco com um passado complicado, que mais tarde fundou sua própria empresa, Trevor  Philips Enterprises, operando com tráfico de drogas e contrabando de armas no Blaine County. Ele é amigo de Ron Jakowski e Wade Hebert, que trabalham para sua empresa, bem como do melhor e mais antigo amigo de Michael, que ele acreditava estar morto por quase uma década depois que ele fingiu sua morte para se aposentar da vida criminosa. Trevor é conhecido por ter um comportamento geralmente imprudente e muito agressivo, mas ele também é muito leal e respeita profundamente todos aqueles próximos a ele. A história de Trevor se concentra em como suas ações têm consequências para ele e seus amigos, e para ele chegar a um acordo com as ações anteriores de Michael. Trevor mais tarde também torna-se amigo do terceiro protagonista, Franklin, tornando-se uma espécie de mentor para ele.</string>
+    <string name="SetimoParagrafo">
+
+Trapaças gerais:
+Modo bêbado: 1-999-547-861
+Queda livre: 1-999-759-3255
+Correr mais rápido: 1-999-228-8463
+Nadar mais rápido: 1-999-468-44557
+Super-pulo: 1-999-467-86-48
+Paraquedas: 1-999-759-3483
+
+</string>
+
+    <string name="OitavoParagrafo">
+Escopetas: Escopeta Automática, Escopeta Bullpup, Escopeta Pesada, Mosquete, Escopeta de cano serrado
+
+Submetralhadoras e Metralhadoras: Submetralhadora de Combate, Metralhadora de Combate, ADP de Combate, Pistola metralhadora (Tec-9), Micro SMG, Submetralhadora (MP5)
+
+Rifles de Assalto: Fuzil Avançado, Fuzil (AK-47), Rifle Bullpup, Carabina, Carabina Especial
+
+Rifles de Precisão: Rifle de Precisão Pesado, Rifle de Elite, Rifle de Precisão
+
+Armas Pesadas: Lança-fogos, Lança Granada,Lança-mísseis teleguiado, Minigun, Canhão Elétrico, RPG
+
+Arremessáveis:Bola, Granada, Galão de gasolina, Coquetel Molotov, Mina de proximidade, Bomba adesiva, Gás lacrimogêneo, Granada de Gás BZ</string>
+
+    <string name="NonoParagrafo">
+
+    Carros esportivos:9F,9F Cabrio,Alpha,Banshee,Blista Compact,Buffalo,Buffalo S,Carbonizzare,Comet,Coquette,Elegy RH8,Feltzer,Furore GT,Fusilade,Futo,Go Go Monkey Blista,Jester,Jester (Corrida),Massacro,Massacro (Corrida),Penumbra,Rapid GT,Rapid GT (Convertible),Schwartzer,Sprunk Buffalo,Sultan,Surano
+
+    Carros Potentes:Blade,Buccaneer,Burger Shot Stallion,Chino,Coquette BlackFin,Dominator,Duke ODeath,Dukes,Gauntle,tHotknife,Phoenix,Picador,Pißwasser Dominator,Rat-Loader
+
+    Carros Supers:Adde,rBullet,Cheetah,Entity XF,Infernus,Osiris,T20,Turismo R,Vacc,aVoltic,Zentorno
+
+    Carros Esportivos Clássicos:Coquette Classic,JB 700,Manana,Monroe,Peyote,Pigalle,Roosevelt,Stinger,Stirling GT,Tornado,Tornado (Convertible),Tornado (Beater),Tornado (Mariachi),Z-Type
+
+    Carros Compactos:Blista,Dilettante,Dilettante (Segurança),Issi [RET],Panto,Prairie,Rhapsody
+
+</string>
+
+    <string name="DecimoParagrafo">Coupés:Cognoscenti Cabrio,Exemplar,F620,Felon,Felon GT,Jackal,Oracle
+
+    Motos:Akuma,Bagger,Bati 801,Bati 801RR,Carbon RS,Daemon (Lost),Double,TFaggio,Hakuchou,Hexer,Innovation,Nemesis,PCJ 600,Ruffian,Sanchez,Sovereign,Thrust,Vader,Vindicator
+
+    Off-Road:Bifta,Blazer,Blazer Lifeguard,Bodhi,Brawler,Dubsta 6x6,Dune Buggy,Duneloader
+        Bicicletas:BMX,Cruiser,Endurex Race Bike,Fixter,Scorcher,Tri-Cycles Race Bike,Whippet Race Bike
+
+    </string>
+
+
+    <string name="OnzeParagrafo">Vans:Pony (Smoke on The Water),Rumpo,Rumpo (Deludamol),Speedo,Surfer,Surfer (Enferrujado),Taco Van,Youga
+
+    Utilitários:Airtug,Caddy,Caddy (Civil),Docktug,Fieldmaster,Fieldmaster (Neve),Empilhadeira,Lawn Mower,Ripley	Sadler,Sadler (Neve),Caminhão de sucata,Towtruck (Truck),Towtruck,Trator,Utility Truck (Crane),Utility Truck (Box),Utility Truck (Van)
+
+    Trailers:Army Trailer (tanker),Boat Trailer,Dock Trailer,Trailer (Portador de carro; Civil),Trailer (flatbed),Trailer (Container/Curtain-side),Trailer (Box),Trailer (Ramp),Trailer (Fame or Shame),Trailer (logs),Trailer (rake),Trailer (small),Trailer (Tanker; RON)
+
+    Veículos de Serviço:Translado de Aeroporto,Ônibus,Dashound,Fretado de Aluguel,Taxi,Ônibus Turístico,Trashmaster
+
+    Commerciais:Benson,Biff,Hauler,Mule,Packer,Phantom,Pounder,Stockade,Stockade (Neve)
+
+    Emergência:Ambulância,FIB (Buffalo),FIB [M][4],Fire Truck,Salva-vidas,Park Ranger,Police Bike,Police Cruiser (Interceptor),Police Cruiser (Buffalo),Police Cruiser,Police Maverick,Police Rancher,Police Riot,Police Roadcruiser,Police Transporter,Ônibus Penitenciário,Predator Policial,Sheriff Cruiser,Sheriff SUV,Cruiser Descaracterizado
+
+    Veículos Militares:Barracks,Barracks Semi,Crusader,Rhino Tank
+
+    Barcos: Dinghy,Dinghy (2-Lugares),Jetmax,Kraken,Marquis,Seashark,Seashark (Salva-vidas),Speeder,Squalo,Submersible,Suntrap,Toro,Tropic
+
+    Aviões:Atomic Blimp, Besra, Cargo Plane, Cuban 800, Dodo, Duster, Jet, Luxor, Luxor Deluxe, Mallard, Mammatus, Miljet, P-996 LAZER, Shamal,Titan,Velum, Vestra,Xero BlimpHelicópteros: Buzzard,Buzzard de ataque ,Cargobob,Cargobob (Trevor Philips Enterprises), Cargobob (Jetsam), Frogger, Frogger (Trevor Philips Enterprises), Maverick, Skylift, Swift, Swift Deluxe</string>
+
+    <string name="DozeParagrafo">
+Trapaças de combate:
+Munição explosiva: 1-999-4684-2637
+Ataques físicos explosivos: 1-999-444-439
+Balas incendiárias: 1-999-462-363-4279
+Todas as armas: 1-999-8665-87
+Invencibilidade (vida infinita): 1-999-72-654-5537
+Diminuir nível de procurado: 1-999-5299-3787
+Aumentar nível de procurado: 1-999-3844-8483
+Recarga da habilidade especial: 1-999-769-3787
+Armadura e vida no máximo: 1-999-887-853
+Mira em câmera lenta: 1-999-332-339</string>
+
+    <string name="TrezeParagrafo">
+Trapaças para criar carros, motos e outros veículos:
+Moto PCJ-600: 1-999-762-538
+Moto Sanchez: 1-999-633-7623
+Helicóptero Buzzard: 1-999-289-9633
+Avião de Acrobacias: 1-999-2276-78676
+Caminhão de lixo Trashmaster: 1-999-872-433
+Carro Comet: 1-999-266-38
+Carro Rapid GT: 1-999-727-4348
+Limousine: 1-999-846-39663
+Bicicleta BMX: 1-999-226-348</string>
+
+<string name="QuatorzeParagrafo"> Alucinação com palhaços psicopatas Quase tudo que envolve Trevor, o mais insano dos três protagonistas, tem explosões, tiros, algum tipo de psicopatia que precisa urgentemente de internação e drogas. Este easter egg do GTA V está atrelado a uma missão, então será até fácil de encontrá-lo já que você terá que fazer essa quest em algum momento.Na missão chamada “Grass Roots”, Trevor encontra um NPC numa praça fazendo campanha para legalizar a maconha. Daí ele oferece um pouco da erva para Trevor e bem… O efeito foi bem mais forte que o criminoso esperava.Trevor entra numa bad trip muito louca e começa a ver palhaços assassinos (ele odeia palhaços!) saindo de uma van, numa espécie de arena Twisted Metal. Armado com uma shotgun, você precisa destruir a van e explodir alguns palhaços no processo.</string>
+<string name="QuinzeParagrafo">Eu vejo pessoas mortas: o fantasma de Jolene Jolene Cranley Evans foi assassinada pelo marido, Jock, ao ser jogada do Monte Gordo em 1978. O assassino, no entanto, nunca foi preso por “falta de provas”.Só é possível encontrar o fantasma entre às 23h e a meia-noite. Como o espírito desaparece se chegar muito perto, use um rifle sniper para observá-la pela mira ou a câmera do celular.Jolene aparece numa rocha do Monte Gordo. Quando ela desaparece, você pode ver uma mensagem escrita no chão, em sangue: “Jock”. Em versões mais otimizadas do jogo, é possível ouvir gritos e outros sons sinistros vindos do local. </string>
+<string name="DezesseisParagrafo"> Invasão alienígena Seres de outros planetas adoram passar férias pelos jogos da franquia. Os aliens talvez sejam os easter eggs do GTA V mais recorrentes. Você pode encontrá-los em alguns momentos e locais diferentes.Mergulho no oceano: há uma nave alienígena submersa em Paleto Bay. Use um submarino para chegar lá sem morrer afogado;Culto aos ETs: vá até Sandy Shores. Neste local há um culto aos alienígenas e é possível encontrar pinturas e outros desenhos esquisitos pelo chão;OVNI: visite Mount Chiliad, após concluir a campanha. Use um rifle sniper para enxergar uma nave espacial parada no ar;Ellen Ripley, chega aqui: bem no início do jogo, Michael tem a oportunidade de chegar até um rio congelado (sob uma ponte) onde poderá ver um alienígena congelado – mais precisamente um Xenomorfo – da série “Alien”.</string>
+<string name="DezesseteParagrafo">
+    Armas Corpo a Corpo:Adaga da Cavalaria [DLC], Taco de Baseball,Garrafa Quebrada [DLC], Pé-de-cabra, Punho,Taco de Golfe, Martelo, Machadinha, Faca, Soco-inglês, Machete, Cassetete
+    Pistolas:Pistol AP, Pistola de Cerâmica, Combat Pistol, Pistola de Combate, Revólver Pesado, TrabucoPistola, Pistola .50 (Desert Eagle), Pistola Fajuta, Arma de Choque, Pistola Vintage
+</string>
+<string name="DezoitoParagrafo">
+    Escopetas: Escopeta Automática, Escopeta Bullpup, Escopeta Pesada, Mosquete, Escopeta de cano serrado
+    Submetralhadoras e Metralhadoras: Submetralhadora de Combate, Metralhadora de Combate, ADP de Combate, Pistola metralhadora (Tec-9), Micro SMG, Submetralhadora (MP5)
+    Rifles de Assalto: Fuzil Avançado, Fuzil (AK-47), Rifle Bullpup, Carabina, Carabina Especial</string>
+</resources>
