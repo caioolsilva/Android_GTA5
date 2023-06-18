@@ -26,7 +26,16 @@ História: Nessa página, o conteúdo presente é a história de cada personagem
 
 
 
-Armas: Veículos: Nessa página, vai estar presente todos os veículos do jogo, foi colocado uma ImageView no topo de um carro do jogo e logo abaixo o nome de todos os carros. No final da página tem um button que redireciona a pessoa para uma página web, mostrando todos os veículos do jogo.
+Armas: Essa página é bem curta de conteúdo, vai falar sobre todas as armas presentes no jogo, vai ter uma ImageView no topo e logo abaixo o conteúdo da página.
+
+
+![image](https://github.com/caioolsilva/Android_GTA5/assets/101647390/15e5a88b-3ed6-46e1-ac1c-31b06ca44957)  ![image](https://github.com/caioolsilva/Android_GTA5/assets/101647390/605d255f-da73-4680-890d-84f8604cbd1c)
+
+
+
+
+
+Veículos: Nessa página, vai estar presente todos os veículos do jogo, foi colocado uma ImageView no topo de um carro do jogo e logo abaixo o nome de todos os carros. No final da página tem um button que redireciona a pessoa para uma página web, mostrando todos os veículos do jogo.
 
 
 
