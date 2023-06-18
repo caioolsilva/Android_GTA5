@@ -25,10 +25,15 @@ Nessa página, o conteúdo presente é a história de cada personagem do jogo, a
 
 
 
-
 Armas:
 
-Veículos:
+Veículos: 
+
+
+
+https://github.com/caioolsilva/Android_GTA5/assets/101647390/4a6b76c2-a38f-417b-b50b-71be9502bb10
+
+
 
 Códigos:
 
