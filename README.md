@@ -27,7 +27,7 @@ Nessa página, o conteúdo presente é a história de cada personagem do jogo, a
 
 Armas:
 
-Veículos: 
+Veículos: Nessa página, vai estar presente todos os veículos do jogo, foi colocado uma ImageView no topo de um carro do jogo e logo abaixo o nome de todos os carros. No final da página tem um button que redireciona a pessoa para uma página web, mostrando todos os veículos do jogo.
 
 
 
@@ -35,6 +35,12 @@ https://github.com/caioolsilva/Android_GTA5/assets/101647390/4a6b76c2-a38f-417b-
 
 
 
-Códigos:
+Códigos: Nessa página vai estar todos os códigos para trapacear no jogo, desde correr mais rápido, para super-pulo. Foi utilizado ScrollView, mas o ScrollView foi utilizado em todas as páginas com conteúdo do nosso App. 
+
+
+
+
+https://github.com/caioolsilva/Android_GTA5/assets/101647390/d2a46b17-b4d5-4bbf-981b-7ff1df89fbc9
+
 
 Trailer: 
