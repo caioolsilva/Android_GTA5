@@ -35,6 +35,7 @@ https://github.com/caioolsilva/Android_GTA5/assets/101647390/4a6b76c2-a38f-417b-
 
 
 
+
 Códigos: Nessa página vai estar todos os códigos para trapacear no jogo, desde correr mais rápido, para super-pulo. Foi utilizado ScrollView, mas o ScrollView foi utilizado em todas as páginas com conteúdo do nosso App. 
 
 
@@ -43,4 +44,11 @@ Códigos: Nessa página vai estar todos os códigos para trapacear no jogo, desd
 https://github.com/caioolsilva/Android_GTA5/assets/101647390/d2a46b17-b4d5-4bbf-981b-7ff1df89fbc9
 
 
-Trailer: 
+
+Trailer: Na tela inicial, o foi colocado um button, que vai redirecionar a pessoa para o trailer do jogo, que está no canal oficial da Rockstar Games.
+
+
+
+https://github.com/caioolsilva/Android_GTA5/assets/101647390/d1c893e4-1d8e-45d4-accf-6303b6d9f2fc
+
+
