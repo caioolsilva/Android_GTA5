@@ -45,6 +45,7 @@ https://github.com/caioolsilva/Android_GTA5/assets/101647390/d2a46b17-b4d5-4bbf-
 
 
 
+
 Trailer: Na tela inicial, o foi colocado um button, que vai redirecionar a pessoa para o trailer do jogo, que está no canal oficial da Rockstar Games.
 
 
