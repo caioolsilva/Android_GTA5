@@ -20,7 +20,11 @@ https://github.com/caioolsilva/Android_GTA5/assets/101647390/4bd91edb-0c4f-4a15-
 
 
 História:
-Nessa página, o conteúdo presente é a história de cada personagem do jogo, a imagem de fundo é a mesma que está em todas as páginas, ela só não estará presente na tela inicial. 
+Nessa página, o conteúdo presente é a história de cada personagem do jogo, a imagem de fundo é a mesma que está em todas as páginas, ela só não estará presente na tela inicial. Foi utilizado ImageView para cada foto dos persoangens presente no jogo
+![image](https://github.com/caioolsilva/Android_GTA5/assets/101647390/c6a895db-0fca-4641-a990-f462c199b224)   ![image](https://github.com/caioolsilva/Android_GTA5/assets/101647390/06f82b69-6dca-47bf-8fed-8a4be2e8076b)
+
+
+
 
 Armas:
 
