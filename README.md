@@ -8,6 +8,10 @@ No nosso aplicativo, tem telas, sendo a primeira página a principal, que irá t
 Página Inicial:
 Aqui foi colocado um papel de fundo que representasse o jogo e na parte do meio, tem 6 button’s que levará às outras páginas que possuem o conteúdo explicativo do jogo.
 
+
+![image](https://github.com/caioolsilva/Android_GTA5/assets/101647390/a5fe02f0-ae9c-4d67-a774-92804617b909)
+
+
 Mapa: Nessa página, vai apresentar os easter eggs presentes no jogo, foi utilizado ScrollView para a rolagem da página. No final da página, tem um button que vai redirecionar a pessoa para uma página web, que fala sobre os easter eggs. 
 
 
