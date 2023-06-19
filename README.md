@@ -5,7 +5,7 @@ Nomes: Diogo Silva e Caio de Oliveira
 link da apresentação: https://drive.google.com/file/d/1i7O3NiCQwO8CAmFn66fDifECYvqxv9uD/view?usp=drive_link
 
 No nosso trabalho foi programado um aplicativo mobile, com o intuito de informar o conteúdo presente no jogo GTA V, que desenvolvido pela Rockstar North e publicado pela Rockstar Games. É o sétimo título principal da série GTA e foi lançado originalmente em 17 de setembro de 2013. 
-No nosso aplicativo, tem telas, sendo a primeira página a principal, que irá te redirecionar para as outras páginas, sendo elas: história, personagens, veículos, armas 
+No nosso aplicativo, vai ter a primeira página, no caso a principal, que irá te redirecionar para as outras páginas, sendo elas: história, personagens, veículos, armas e trailer.
 
 Página Inicial: Aqui foi colocado um papel de fundo que representasse o jogo e na parte do meio, tem 6 button’s que levará às outras páginas que possuem o conteúdo explicativo do jogo.
 
@@ -56,7 +56,7 @@ https://github.com/caioolsilva/Android_GTA5/assets/101647390/d2a46b17-b4d5-4bbf-
 
 
 
-Trailer: Na tela inicial, o foi colocado um button, que vai redirecionar a pessoa para o trailer do jogo, que está no canal oficial da Rockstar Games.
+Trailer: Na tela inicial, foi colocado um button, que vai redirecionar a pessoa para o trailer do jogo, que está no canal oficial da Rockstar Games.
 
 
 
