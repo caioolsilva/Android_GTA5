@@ -2,6 +2,8 @@
 
 Nomes: Diogo Silva e Caio de Oliveira 
 
+vídeo da nossa apresentação: 
+
 No nosso trabalho foi programado um aplicativo mobile, com o intuito de informar o conteúdo presente no jogo GTA V, que desenvolvido pela Rockstar North e publicado pela Rockstar Games. É o sétimo título principal da série GTA e foi lançado originalmente em 17 de setembro de 2013. 
 No nosso aplicativo, tem telas, sendo a primeira página a principal, que irá te redirecionar para as outras páginas, sendo elas: história, personagens, veículos, armas 
 
